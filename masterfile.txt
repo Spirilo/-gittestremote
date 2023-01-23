@@ -1,0 +1,4 @@
+Masterin lisäys tänne
+=======
+Eka lisäys tänne
+>>>>>>> second
