@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Masterin lisäys tänne
 =======
 Eka lisäys tänne
